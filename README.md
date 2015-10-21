@@ -1,7 +1,6 @@
-
 This is an assignment to find the frequent item sets of all sizes in various transactions using 3 algorithms
 
-USAGE: $ python pramod_setlur_.py [INPUT_FILE] [SUPPORT_THRESHOLD] [HASH_BUCKET_SIZE] Eg: $ python PCY.py data/input.txt 
+USAGE: $ python PCY_.py [INPUT_FILE] [SUPPORT_THRESHOLD] [HASH_BUCKET_SIZE] Eg: $ python PCY.py data/input.txt 
 
 PCY (Park-Chen-Yu) Algorithm
 
